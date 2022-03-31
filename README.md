@@ -9,11 +9,16 @@ UNCC ECGR 4187 (Data Communication and Networking II) Software Project
 ## Dependencies:
   - Dev-C++ IDE
 
+## About the Repo.
+  - **network_analysis.cpp** contains the C++ implementation of Dijkstra's algorithm
+  - **network_analysis.c** contains the C implementation of Dijkstra's algorithm
+  - Final report details the implementations of the C++ functions in this project along with the results + analysis
+
 ## Author
 Khoa Do
 
 ## Reference
-N/A
+https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
 
 ## Additional Notes
 N/A
