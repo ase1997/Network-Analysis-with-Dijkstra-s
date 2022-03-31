@@ -1,4 +1,4 @@
-# Network-Analysis-with-Dijstra-s
+# Network-Analysis-with-Dijkstra-s
 
 ## Type: Academic Individual Project
 
