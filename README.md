@@ -18,7 +18,7 @@ UNCC ECGR 4187 (Data Communication and Networking II) Software Project
 Khoa Do
 
 ## Reference
-https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+[1] https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
 
 ## Additional Notes
 N/A
