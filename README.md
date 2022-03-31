@@ -10,7 +10,7 @@ UNCC ECGR 4187 (Data Communication and Networking II) Software Project
   - Dev-C++ IDE
 
 ## Author
-Khoa Do.
+Khoa Do
 
 ## Reference
 N/A
