@@ -1,2 +1,19 @@
 # Network-Analysis-with-Dijstra-s
+
+## Type: Academic Individual Project
+
+## Project Description
 UNCC ECE 4187 (Data Communication and Networking II) Software Project
+  - Implement Dijkstra’s algorithm to analyze and evaluate the adaptive link costs and the effect of adaptation rate regarding the stability and the performance of any network
+
+## Dependencies:
+  - Dev-C++ IDE
+
+## Author
+Khoa Do. All Rights Reserved.
+
+## Reference
+N/A
+
+## Additional Notes
+N/A
